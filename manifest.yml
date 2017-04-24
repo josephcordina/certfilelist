@@ -1,0 +1,5 @@
+applications:
+- name: certfilelist
+  memory: 512M
+  path: target/certfilelist-0.0.1-SNAPSHOT.jar 
+  health-check-type: process
